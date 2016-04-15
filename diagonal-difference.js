@@ -22,7 +22,7 @@
 
 function diagonals(num, string){
 //split the string by every num character
-
+//split that string by ' '
 }
 
 console.log(diagonals(3,'11 2 4 4 5 6 10 8 -12'));
