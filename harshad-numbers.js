@@ -92,7 +92,6 @@ var Harshad = (function() {
                     }
                 }
             }
-            // return arr.length;
         }
     };
 
